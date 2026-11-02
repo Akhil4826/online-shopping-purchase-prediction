@@ -16,6 +16,9 @@ This project predicts whether a visitor will complete a purchase during an onlin
 ## C. GitHub Repository Link
 https://github.com/Akhil4826/online-shopping-purchase-prediction
 
+**Live Streamlit Application:**
+https://online-shopping-purchase-prediction.streamlit.app/
+
 ## D. Models Used
 1. **Logistic Regression:** A linear model predicting purchase probability using regularized log-odds.
 2. **Decision Tree Classifier:** A tree-based model splitting features recursively by Gini impurity.
