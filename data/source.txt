@@ -1,0 +1,21 @@
+Dataset: Online Shoppers Purchasing Intention Dataset
+Source: UCI Machine Learning Repository
+UCI Dataset ID: 468
+URL: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+DOI: 10.24432/C5F88Q
+
+Citation:
+Sakar, C. and Kastro, Y. (2018). Online Shoppers Purchasing Intention Dataset. 
+UCI Machine Learning Repository. https://doi.org/10.24432/C5F88Q.
+
+Published reference:
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. 
+Real-time prediction of online shoppers' purchasing intention using multilayer perceptron and LSTM recurrent neural networks. 
+Neural Comput & Applic 31, 6893–6908 (2019). https://doi.org/10.1007/s00521-018-3523-0
+
+Dataset Characteristics:
+- Total records: 12,330
+- Total input features: 17
+- Target column: Revenue (Boolean: True = Purchase, False = No purchase)
+- Class distribution: 10,422 False (84.53%), 1,908 True (15.47%)
+- Missing values: None
